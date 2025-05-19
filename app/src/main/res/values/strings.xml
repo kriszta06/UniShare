@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UniShare</string>
+    <string name="pe_part_of_it">Pe part of it!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    <string name="password_cannot_be_empty">Password cannot be empty</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="_27">27</string>
+    <string name="posts">Posts</string>
+    <string name="_45">45</string>
+    <string name="followers">Followers</string>
+    <string name="_413">413</string>
+    <string name="following">Following</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email_lc">email</string>
+    <string name="name_lc">name</string>
+    <string name="password_lc">password</string>
+    <string name="username_lc">username</string>
+    <string name="edit_profile_ac">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="add_a_caption">Add a caption...</string>
+    <string name="send_message">Send message</string>
+    <string name="caption">Caption</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="messages">Messages</string>
+    <string name="post">Post</string>
+    <string name="search">Search</string>
+    <string name="add_image">Add image</string>
+    <string name="image">Image</string>
+</resources>
