@@ -67,7 +67,7 @@ oferă ajutor în găsirea materialelor necesare pentru studiu, dar și posibili
 experiență optimizată și eficientă, iar aplicația poate fi îmbunătățită prin:
 • Împărțirea imaginilor pe categorii
 • Implementarea funcționalității de căutare a imaginilor după descriere
-• Link-uirea cu aplicația de mesagerie ( https://github.com/kriszta06/Project_P3)
+• Link-uirea cu aplicația de mesagerie (https://github.com/kriszta06/ChatApp)
 
 
 
