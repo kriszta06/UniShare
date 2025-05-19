@@ -59,7 +59,7 @@ aplicației (img.3)
 ![image](https://github.com/user-attachments/assets/c41139b0-7cb4-4086-a014-4d44288c7437) (img.2)
 ![image](https://github.com/user-attachments/assets/04c6d2f8-a914-4e5a-b0f6-bd818bba527d) (img.3)
 
-Concluzii și pașii următori:
+## Concluzii și pașii următori:
 
 Această aplicație oferă o soluție robustă pentru integrarea studenților în mediul academic,
 oferă ajutor în găsirea materialelor necesare pentru studiu, dar și posibilitatea de a
